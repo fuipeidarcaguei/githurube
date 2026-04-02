@@ -1,9 +1,12 @@
 # Tela Principal
 
 Olá eu sou o pedro hiago, UHUU!!
-
-
+- HTML - CSS - JAVASCRIPT
 
 
 ## Desenvolvimento de Sistemas 💻
-HTML - CSS - JAVASCRIPT
+
+ESCOLA ELIAS DE MELLO AYRES
+
+## Colaboradores 
+- Felipe Correia
